@@ -54,6 +54,6 @@ From published case studies; each page gives the client context and reporting pe
 
 ## Find me elsewhere
 
-[Personal site](https://ishantsharmamarketer.com/) · [Hustle Marketers](https://hustlemarketers.com/) · [LinkedIn](https://www.linkedin.com/in/ishant-digital-marketing-specialist) · [X](https://x.com/HustleMarketers) · [Clutch reviews](https://clutch.co/profile/hustle-marketers) · [Upwork](https://www.upwork.com/freelancers/googleadsexpert10) · [Substack](https://substack.com/@ishant) · [DEV](https://dev.to/digitalishant)
+[Personal site](https://ishantsharmamarketer.com/) · [Hustle Marketers](https://hustlemarketers.com/) · [LinkedIn](https://www.linkedin.com/in/ishant-digital-marketing-specialist) · [X](https://x.com/HustleMarketers) · [Clutch reviews](https://clutch.co/profile/hustle-marketers) · [Upwork](https://www.upwork.com/freelancers/googleadsexpert10) · [The Marketing Machinist (Substack)](https://ishantsharmahustlemarketers.substack.com/) · [DEV](https://dev.to/digitalishant)
 
 Working on Google Ads, SEO or tracking? [Get in touch](https://hustlemarketers.com/contact-us/).
