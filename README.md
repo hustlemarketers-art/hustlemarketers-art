@@ -22,6 +22,7 @@ This is where I publish the scripts, calculators and audit tools I use in client
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [hustle-schema-studio](https://github.com/hustlemarketers-art/hustle-schema-studio) ([live tool](https://hustlemarketers-art.github.io/hustle-schema-studio/)) | JSON-LD schema generator and checker: 12 schema types, connected entities, plain-language error reports, Google rich-result notes and WordPress install steps | JavaScript |
 | [google-ads-scripts](https://github.com/hustlemarketers-art/google-ads-scripts) | Five read-only Google Ads scripts: campaign audit, Search + Performance Max search term report, Shopping product performance, budget pacing and broken final URL checks | JavaScript, GAQL |
 | [seo-audit-toolkit](https://github.com/hustlemarketers-art/seo-audit-toolkit) | Technical SEO crawler (status codes, titles, canonicals, robots, JSON-LD, internal links) and a Search Console keyword cannibalization finder | Python |
 | [ppc-profitability-calculator](https://github.com/hustlemarketers-art/ppc-profitability-calculator) ([live demo](https://hustlemarketers-art.github.io/ppc-profitability-calculator/)) | ROAS vs. contribution margin, break-even ROAS and break-even revenue | HTML, JavaScript |
