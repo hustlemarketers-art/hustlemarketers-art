@@ -24,18 +24,18 @@ This is where I publish the scripts, calculators and audit tools I use in client
 | --- | --- | --- |
 | [hustle-schema-studio](https://github.com/hustlemarketers-art/hustle-schema-studio) ([live tool](https://hustlemarketers-art.github.io/hustle-schema-studio/)) | JSON-LD schema generator and checker: 12 schema types, connected entities, plain-language error reports, Google rich-result notes and WordPress install steps | JavaScript |
 | [google-ads-scripts](https://github.com/hustlemarketers-art/google-ads-scripts) | Five read-only Google Ads scripts: campaign audit, Search + Performance Max search term report, Shopping product performance, budget pacing and broken final URL checks | JavaScript, GAQL |
-| [seo-audit-toolkit](https://github.com/hustlemarketers-art/seo-audit-toolkit) | Technical SEO crawler (status codes, titles, canonicals, robots, JSON-LD, internal links) and a Search Console keyword cannibalization finder | Python |
+| [seo-audit-toolkit](https://github.com/hustlemarketers-art/seo-audit-toolkit) | Technical SEO crawler (status codes, titles, canonicals, robots, JSON-LD, internal links) and a Search Console query overlap finder for spotting possible keyword cannibalization | Python |
 | [ppc-profitability-calculator](https://github.com/hustlemarketers-art/ppc-profitability-calculator) ([live demo](https://hustlemarketers-art.github.io/ppc-profitability-calculator/)) | ROAS vs. contribution margin, break-even ROAS and break-even revenue | HTML, JavaScript |
 
 ## Selected results
 
-From published case studies; each page gives the client context and reporting period.
+From published case studies; each page gives the client context, reporting period and data source (ad platform reports, Search Console or Semrush estimates).
 
 | Channel | Client | Result |
 | --- | --- | --- |
-| SEO + AI search | CDL training school | [Organic traffic up 2.4x, with citations in ChatGPT, Gemini and Google AI Overviews](https://hustlemarketers.com/case-study/cmsc-parker-cdl-seo-organic-traffic-case-study/) |
-| SEO | Magento ecommerce store | [Grew to $14.3M in lifetime sales through technical and on-page SEO](https://hustlemarketers.com/case-study/magento-seo-ecommerce-growth/) |
-| SEO | Family entertainment center | [Organic clicks up 117%, ranking keywords nearly doubled](https://hustlemarketers.com/case-study/rec-hall-seo-ai-visibility-growth-case-study/) |
+| SEO + AI search | CDL training school | [Semrush-estimated organic traffic up at least 2.4x (Jul 2025 to May 2026), with brand mentions tracked in ChatGPT, Gemini and Google AI Overviews](https://hustlemarketers.com/case-study/cmsc-parker-cdl-seo-organic-traffic-case-study/) |
+| SEO | Magento ecommerce store | [Store passed $14.3M in lifetime sales during an ongoing 36-month technical and on-page SEO engagement (sales also reflect pricing, promotions and repeat customers)](https://hustlemarketers.com/case-study/magento-seo-ecommerce-growth/) |
+| SEO | Family entertainment center | [Organic clicks up 117% in Search Console (last 3 months vs. previous 3); Semrush-tracked ranking keywords nearly doubled](https://hustlemarketers.com/case-study/rec-hall-seo-ai-visibility-growth-case-study/) |
 | Google Ads | Wine and spirits store | [17.35x ROAS and $177K revenue in 120 days](https://hustlemarketers.com/case-study/alcohol-marketing-case-study-cana-wine-company/) |
 | Google Ads | B2B cleaning equipment supplier | [Leads from 29 to 154 in 90 days, cost per lead down 73%](https://hustlemarketers.com/case-study/commercial-cleaning-equipment-google-ads-case-study/) |
 | Microsoft Advertising | Commercial epoxy flooring brand | [10.8x ROAS on Search and Shopping](https://hustlemarketers.com/case-study/epoxy-flooring-bing-ads-case-study/) |
